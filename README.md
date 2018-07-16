@@ -1,4 +1,4 @@
-# `cordova-plugin-android-downloadmanager`
+# `cordova-plugin-android-downloadmanager-ts`
 
 [![Build Status](https://travis-ci.org/emilbayes/cordova-plugin-android-downloadmanager.svg?branch=master)](https://travis-ci.org/emilbayes/cordova-plugin-android-downloadmanager)
 
@@ -7,7 +7,7 @@
 ## Usage
 
 ```js
-var downloadManager = require('cordova-plugin-android-downloadmanager.DownloadManager')
+var downloadManager = require('cordova-plugin-android-downloadmanager-ts.DownloadManager')
 ```
 
 ## API
@@ -83,7 +83,7 @@ This will invoke the callback of the signature `cb(err, entryArray)` with each `
 ## Install
 
 ```sh
-npm install cordova-plugin-android-downloadmanager
+npm install cordova-plugin-android-downloadmanager-ts
 ```
 
 ## License

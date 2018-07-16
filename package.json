@@ -1,5 +1,5 @@
 {
-  "name": "cordova-plugin-android-downloadmanager",
+  "name": "cordova-plugin-android-downloadmanager-ts",
   "version": "0.5.1-0",
   "description": "Plugin to expose Android's DownloadManager in Javascript",
   "main": "www/index.js",
@@ -10,7 +10,7 @@
     "version": "sync-cordova-xml package.json plugin.xml --output plugin.xml && git add plugin.xml"
   },
   "cordova": {
-    "id": "cordova-plugin-android-downloadmanager",
+    "id": "cordova-plugin-android-downloadmanager-ts",
     "platforms": [
       "android"
     ]
