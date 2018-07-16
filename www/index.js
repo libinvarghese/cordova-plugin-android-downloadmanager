@@ -1,4 +1,5 @@
-var assert = require('nanoassert')
+// var assert = require('nanoassert')
+var assert = console.assert;
 module.exports = new DownloadManager()
 
 function DownloadManager () {
